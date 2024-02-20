@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 75vw;
+    max-width: 1000px;
+    min-width: 320px;
+    margin: auto;
+}
+
+img{
+    width: 100%;
+    border-radius: 15px;
+    box-sizing: 0px 3px 5px rgba(15, 15, 15, .5);
+
+}
+
+#numero1{
+    min-height: 100vh;
+    background:url(3.png) no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+
+
+
